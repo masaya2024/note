@@ -49,3 +49,4 @@ Optional environment variables:
   - includes `texts` and de-duplicated `links` found inside the card elements
   - when `TARGET_URLS` is set, the output is aggregated with `uniqueLinks`
 # note
+# note
